@@ -3,3 +3,4 @@
 3. Updating code on 1.2.4
 4. Updating code on 1.2.4 again.
 5. Reverting build script to forceful POM version updating.
+6. Testing manual Bamboo branching.
